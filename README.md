@@ -13,5 +13,7 @@
         2. a. git commit -m "if already uploaded"
 
     3. git push origin master(depends)
-    
+
 </p>
+
+<p>PS: The style above displays code like font in the remote repo. Try it again some time</p>
